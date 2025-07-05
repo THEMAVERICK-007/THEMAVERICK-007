@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/prasidh-pratheesh-a836292a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasidh-pratheesh-a836292a1" height="30" width="40" /></a>
 <a href="https://instagram.com/_.p.r.a.s.i.d.h._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.p.r.a.s.i.d.h._" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@prasidh_prathee1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@prasidh_prathee1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@prasidh_prathee1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prasidh_prathee1" height="30" width="40" /></a>
 <a href="https://discord.gg/prasidh2385_39183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prasidh2385_39183" height="30" width="40" /></a>
 </p>
 
